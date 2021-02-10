@@ -1,0 +1,16 @@
+.login-form{
+  width:100%;
+  max-width: 330px;
+ margin-top: 200px;
+  margin: auto;
+  height: 450px;
+ background-color: rgb(214, 204, 204);
+ padding: 20px;
+}
+.App{
+  background-color:gray;
+  height: 950px;
+  padding-top: 200px;
+  
+  
+}
